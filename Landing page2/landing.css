@@ -1,0 +1,108 @@
+body{
+background-image: url("background hpf.jpg")
+
+}
+
+.images{
+    max-width: 350px;
+    min-width:0;
+    padding:10px;
+    border-width: 3px;
+    border-style:ridge;
+    background-color: rgb(46, 43, 43);
+    align-items: center;
+
+    
+}
+
+header{
+    background-color: aliceblue;
+    font-size: x-large;
+    text-align: end;
+
+}
+.space{
+    text-align: end;
+    color:rgb(81, 21, 124);
+    background-color: grey;
+    font-weight:bold;
+}
+
+
+.Solar, .World{
+    background-color: rgb(46, 43, 43);
+    max-width: 100%;
+    min-width:0;
+    display:inline-flex;
+    margin:10px;
+
+}
+
+.sun{
+    background-color: rgb(46, 43, 43);
+    max-width: 100%;
+    min-width:0;
+    padding:30px;
+   margin:20px;
+   display:inline-flexbox;
+  
+    
+}
+
+.moon{
+    background-color: rgb(46, 43, 43);
+    max-width: 100%;
+    min-width:0;
+    padding:30px;
+    margin:20px;
+    display:inline-flex;
+    
+
+}
+
+.Galaxies{
+    background-color: rgb(46, 43, 43);
+    max-width: 100%;
+    min-width:0;
+    padding:30px;
+    margin:20px;
+    display:inline-flexbox;
+    
+}
+.stars{
+    background-color: rgb(46, 43, 43);
+    max-width: 100%;
+    min-width:0;
+    padding:30px;
+    margin:20px;
+    display:inline-flexbox;
+    
+}
+
+.greenhouse{
+    background-color: rgb(46, 43, 43);
+    max-width: 100%;
+    min-width:0;
+    padding:30px;
+    margin:20px;
+    display:inline-flex;
+    
+}
+
+.planets{
+    background-color: rgb(46, 43, 43);
+    max-width: 100%;
+    min-width:0;
+    padding:30px;
+    margin:20px;
+    display:inline-flexbox;
+    
+}
+li{
+    font-weight: bold;
+    font-size: large;
+}
+
+footer{
+    color:white;
+}
